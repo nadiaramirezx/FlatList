@@ -1,0 +1,3 @@
+ *npx create-expo-app@latest: genera un templeate
+*npx create-expo-app@latest --template blank : 
+*npx expo start : genera el codigo QR para visualizar la app
